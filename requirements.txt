@@ -1,0 +1,8 @@
+fastapi[all]
+openai
+python-dotenv
+pydantic==1.*
+langchain
+bs4
+tiktoken
+uvicorn==0.15.0  # replace with the version you need
